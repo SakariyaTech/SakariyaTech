@@ -1,5 +1,5 @@
 <h1>Hi, I'm Sakariya! <br/></h1>
-<h3>Aspiring IT Support Specialist | Future Systems Administrator</h3>
+<h3> IT Support Specialist | Systems Administrator</h3>
 
 <h2>👨‍💻 IT & System Administration Projects:</h2>
 
